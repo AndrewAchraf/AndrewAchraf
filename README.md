@@ -26,11 +26,19 @@ I'm a **passionate Computer Engineering undergraduate** with a love for **proble
 
 ### 📌 **DripMeUp Clothing Store** 👕🛒
 - **Tech Stack:**
-  - *Backend:* Java & Spring Boot
+  - *Backend:* Java, Spring Boot & Spring JPA 
   - *Frontend:* React
   - *Database:* MySQL
-- **Description:** DripMeUp is an online **e-commerce platform for a clothing store**, developed by students of Alexandria University (Computer and Systems Engineering Department) as part of the Software Engineering course (CSE 322) under Prof. Dr. Noha Adly. The platform allows customers to browse and order products, while admins manage inventory and order processing.
+- **Description:** DripMeUp is an online **e-commerce platform for a clothing store**, developed by students of Alexandria University (Computer and Systems Engineering Department) as part of the Software Engineering course (CSE 322) that DripMeUp allows customers to browse and order products, while admins manage inventory and order processing.
 - [Project Repository](https://github.com/MohamedAbdo37/DripMeUp)
+
+### 📌 **Rakeni-Shokran Parking Management System** 🚘🅿️
+- **Tech Stack:**
+  - *Backend:* Java, Spring Boot & Spring JDBC
+  - *Frontend:* React & TypeScript
+  - *Database:* MySQL
+- **Description:** •	Rakeni-Shokran is a smart parking reservation system simulating IoT functionality to optimize urban parking logistics.
+- [Project Repository](https://github.com/Rakeni-Shokran)
 
 ### 📌 **Connect-4s-v2.0** 🤖  
 - **Tech Stack:**

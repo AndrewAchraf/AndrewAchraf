@@ -4,14 +4,14 @@
 I'm a **passionate Computer Engineering undergraduate** with a love for **problem-solving, software development, and technology**. I enjoy building **efficient, scalable, and innovative solutions** while constantly learning new skills! 🚀  
 
 💡 **Interests:**  
-- 🔹 **Software Development** (Java, Python, C/C++)  
-- 🔹 **Web Development** (Spring, React, VueJS)  
-- 🔹 **Data Structures & Algorithms**  
+  🔹 **Software Development** (Java, Python, C/C++)  
+  🔹 **Web Development** (Spring, React, VueJS)  
+  🔹 **Data Structures & Algorithms**  
 
 💻 **Currently Learning:**  
-✔️ Working on **Problem Solving Skills**  
-✔️ Exploring **AI & Machine Learning**  
-✔️ Working on **full-stack web apps**  
+  ✔️ Working on **Problem Solving Skills**  
+  ✔️ Exploring **AI & Machine Learning**  
+  ✔️ Working on **full-stack web apps**  
 
 
 📫 **Connect with me:**  
